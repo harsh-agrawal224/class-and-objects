@@ -1,0 +1,19 @@
+class Employee
+{
+	public static void main(String[] args)
+	{
+		String Name ="Robert" ;
+		String Address1 =  "WallsStreet 64C";
+		int q= 1994;// year of joining
+		String Address2=  "WallsStreet 68D";
+		String Name2 = "Sam"; 
+		int a =2000;
+		String Name3 =  "John" ;
+		String Address3= "WallsStreet 26B";
+		int b= 1999;
+		System.out.println("First Employee is :"+Name+"Year Of Joining"+q+"Employee address is "+Address1 );
+		System.out.println("Second Employee is :"+Name2+"Year Of Joining"+a+"Employee address is "+Address2 );
+		System.out.println("Third Employee is :"+Name3+"Year Of Joining"+b+"Employee address is "+Address3);
+	}
+}
+		
